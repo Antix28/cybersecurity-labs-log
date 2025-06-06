@@ -6,7 +6,7 @@ Documenting hands-on experience across RangeForce, TryHackMe, BTLO and Hack The 
 ## ✅ Completed Labs
 
 ### RangeForce
-- [Deobfuscating VBA Scripts](./RangeForce.md)
+- [Deobfuscating VBA Scripts](RangeForce)
 - 
 
 ### TryHackMe
