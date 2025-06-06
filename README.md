@@ -5,6 +5,10 @@ Documenting hands-on experience across RangeForce, TryHackMe, BTLO and Hack The 
 
 ## ✅ Completed Labs
 
+### RangeForce
+- [Deobfuscating VBA Scripts](./RangeForce.md)
+- 
+
 ### TryHackMe
 - [Intro to Splunk](./tryhackme/intro-to-splunk.md)
 - [What is SIEM?](./tryhackme/what-is-siem.md)
