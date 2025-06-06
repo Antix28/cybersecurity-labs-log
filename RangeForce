@@ -1,0 +1,18 @@
+# Deobfuscating VBA Scripts
+🗓️ Date: 2025-06-06
+
+## 🔍 Objective
+Deobfuscate VBA scripts.
+Understand code deobfuscation.
+
+## ⚙️ Tools Used
+- Visual Studio Code
+
+## 🧠 Key Takeaways
+- echo "" | base64 -d
+
+## 🚧 Struggles & Fixes
+
+## 📌 Commands
+- olevba sample.docm > dump.vbs
+- code . (Visual Studio Code)
