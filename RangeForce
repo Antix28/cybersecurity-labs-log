@@ -16,3 +16,37 @@ Understand code deobfuscation.
 ## 📌 Commands
 - olevba sample.docm > dump.vbs
 - code . (Visual Studio Code)
+
+# CVE-2024-4577 PHP-CGI Argument Injection Vulnerability
+🗓️ Date: 2025-06-10
+
+## 🔍 Objective
+- CVE-2024-4577
+- Gaining insight into how this critical PHP-CGI argument injection vulnerability can be exploited and effectively mitigated
+
+## ⚙️ Tools Used
+- XAMPP Control Panel
+- Reverse shell
+
+## 🧠 Key Takeaways
+- Detect exploitation attempts using tools like WAFs, IDS/IPS, and log analysis to identify suspicious patterns.
+- Apply remediation strategies by securing configurations, updating PHP, and implementing effective hardening techniques.
+
+# xxxxxxxxxxxxxxxxxxxxxx
+🗓️ Date: 2025-06-06
+
+## 🔍 Objective
+Deobfuscate VBA scripts.
+Understand code deobfuscation.
+
+## ⚙️ Tools Used
+- Visual Studio Code
+
+## 🧠 Key Takeaways
+- echo "" | base64 -d
+
+## 🚧 Struggles & Fixes
+
+## 📌 Commands
+- olevba sample.docm > dump.vbs
+- code . (Visual Studio Code)
