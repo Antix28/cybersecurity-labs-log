@@ -6,6 +6,7 @@ Documenting hands-on experience across RangeForce, TryHackMe, BTLO and Hack The 
 ## ✅ Completed Labs
 
 ### RangeForce
+- CVE-2024-4577 PHP-CGI Argument Injection Vulnerability (RangeForce)
 - [Deobfuscating VBA Scripts](RangeForce)
 - Tracing with strace and ltrace
 - Ghidra 1: Static Analysis
