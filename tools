@@ -1,1 +1,9 @@
+LetsDefend
+Common Mistakes Made by Analysts
+
+RELYING EXCLUSIVELY ON VIRUSTOTAL RESULTS
+Tools: wget -> downloading&analysing HTML code
+Hasty Analysis of Malware in a Sandbox
+Inadequate Log Analysis
+Overlooking VirusTotal Dates
 
